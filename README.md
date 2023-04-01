@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhruv Thummar.</h1>
 <h3 align="center">A passionate developer from India</h3>
+<h5>I am an aspiring student who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. 
+
+I have strong technical skills and an academic background in Information Technology Industry.
+
+My passion lies in solving business problems and able to jump across verticals to deliver high-performing Websites.
+
+Proficient: ​ Full Stack Web Developer, Cpp and Java programming @ intermediate level.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
