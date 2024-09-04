@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Thummar.</h1>
 <h3 align="center">A passionate developer from India</h3>
-<h5>I am an aspiring student who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. 
+<h5>I am an aspiring developer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. 
 
 I have strong technical skills and an academic background in Information Technology Industry.
 
